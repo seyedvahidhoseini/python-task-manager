@@ -8,7 +8,7 @@ def del_task(item):
 
     for i in task:
         if i == item:
-            task.remove(i
+            task.remove(i)
 
 def show_tasks():
     for i in range(len(task)):
