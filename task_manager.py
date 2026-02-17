@@ -6,7 +6,7 @@ def add_task(user_input):
 
 def del_task(item):
 
-    for i in task
+    for i in task:
         if i == item:
             task.remove(i
 
